@@ -85,7 +85,7 @@ export const FounderSection: React.FC = () => {
             >
               <div className="aspect-[3/4] w-full overflow-hidden">
                 <img
-                  src="/images/founder.jpg"
+                  src="https://scontent.fbhv2-1.fna.fbcdn.net/v/t39.30808-6/472748757_2634859470236891_6832446002228186797_n.jpg?stp=dst-jpg_tt6&cstp=mx1864x1864&ctp=s1864x1864&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHR-qSv3omZkKcRsAf9GzSngF4u5JoXcLOAXi7kmhdws_ITCOMuf9kb5FC3TWBMvUe7uF4vRiMui_CdFMBjZfY7&_nc_ohc=JSXFjx7rkrsQ7kNvwGl4mID&_nc_oc=Adp7uEtYM3GZlIPn00Ka55d9NXshkldRilfNQvzr_iERLoqGwTF3zjVHpK0GJgbMX-YcoD_cg6DiO-XIIuKcAafX&_nc_zt=23&_nc_ht=scontent.fbhv2-1.fna&_nc_gid=rw9360W2e5SbpXStBIigcg&_nc_ss=7b2a8&oh=00_AQNebUx_7Yr-lt5d_51tTDyuDrKXp5e6Rqid3ThaZ4YC5w&oe=6ACA8AFAy"
                   alt="Ahmad Mustafa - Founder & Owner of The Pizzalogist"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
