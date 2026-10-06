@@ -23,12 +23,12 @@ export const BRAND_ASSETS = {
   logoLocal: "/images/logo.jpg",
 
   // Ahmad Mustafa (Founder & Owner in Suit at Podium)
-  founderPodiumUploaded: "/images/founder.jpg",
-  founderPodiumLocal: "/images/founder.jpg",
+  founderPodiumUploaded: "https://scontent.fbhv2-1.fna.fbcdn.net/v/t39.30808-6/472748757_2634859470236891_6832446002228186797_n.jpg?stp=dst-jpg_tt6&cstp=mx1864x1864&ctp=s1864x1864&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHR-qSv3omZkKcRsAf9GzSngF4u5JoXcLOAXi7kmhdws_ITCOMuf9kb5FC3TWBMvUe7uF4vRiMui_CdFMBjZfY7&_nc_ohc=JSXFjx7rkrsQ7kNvwGl4mID&_nc_oc=Adp7uEtYM3GZlIPn00Ka55d9NXshkldRilfNQvzr_iERLoqGwTF3zjVHpK0GJgbMX-YcoD_cg6DiO-XIIuKcAafX&_nc_zt=23&_nc_ht=scontent.fbhv2-1.fna&_nc_gid=rw9360W2e5SbpXStBIigcg&_nc_ss=7b2a8&oh=00_AQNebUx_7Yr-lt5d_51tTDyuDrKXp5e6Rqid3ThaZ4YC5w&oe=6ACA8AFA",
+  founderPodiumLocal: "https://scontent.fbhv2-1.fna.fbcdn.net/v/t39.30808-6/472748757_2634859470236891_6832446002228186797_n.jpg?stp=dst-jpg_tt6&cstp=mx1864x1864&ctp=s1864x1864&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHR-qSv3omZkKcRsAf9GzSngF4u5JoXcLOAXi7kmhdws_ITCOMuf9kb5FC3TWBMvUe7uF4vRiMui_CdFMBjZfY7&_nc_ohc=JSXFjx7rkrsQ7kNvwGl4mID&_nc_oc=Adp7uEtYM3GZlIPn00Ka55d9NXshkldRilfNQvzr_iERLoqGwTF3zjVHpK0GJgbMX-YcoD_cg6DiO-XIIuKcAafX&_nc_zt=23&_nc_ht=scontent.fbhv2-1.fna&_nc_gid=rw9360W2e5SbpXStBIigcg&_nc_ss=7b2a8&oh=00_AQNebUx_7Yr-lt5d_51tTDyuDrKXp5e6Rqid3ThaZ4YC5w&oe=6ACA8AFA",
 
   // Ahmad Mustafa (Casual / Team)
-  founderTeamUploaded: "/images/team.jpg",
-  founderTeamLocal: "/images/team.jpg",
+  founderTeamUploaded: "https://scontent.fbhv2-1.fna.fbcdn.net/v/t39.30808-6/527390868_2826520257737477_5354180255479458312_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1366&ctp=s2048x1366&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHUcHj4n5g5Eea1TFVrSEqbYuRlSWrCKOli5GVJasIo6WkiKEMZKWT9YqWsPEBxypleAa-fB1rz2EI226dRuGKc&_nc_ohc=lHQJ4-cNwtEQ7kNvwHcjVPh&_nc_oc=AdrJtHU8xN6jbs73Kpy_711Zk4dlIJTmYyPyDLzWl8bWSEEna4WM4ahEVEsEJ2XZTQr3P37JBiCi7acMppzkc42O&_nc_zt=23&_nc_ht=scontent.fbhv2-1.fna&_nc_gid=I1z1XOpbrmP8-WPNRRp2_Q&_nc_ss=7b2a8&oh=00_AQOCGXUl2hmF94b_h-fhLnN2_W8nHH7YglRUjdoLp9D8NA&oe=6ACAA89D",
+  founderTeamLocal: "https://scontent.fbhv2-1.fna.fbcdn.net/v/t39.30808-6/527390868_2826520257737477_5354180255479458312_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1366&ctp=s2048x1366&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHUcHj4n5g5Eea1TFVrSEqbYuRlSWrCKOli5GVJasIo6WkiKEMZKWT9YqWsPEBxypleAa-fB1rz2EI226dRuGKc&_nc_ohc=lHQJ4-cNwtEQ7kNvwHcjVPh&_nc_oc=AdrJtHU8xN6jbs73Kpy_711Zk4dlIJTmYyPyDLzWl8bWSEEna4WM4ahEVEsEJ2XZTQr3P37JBiCi7acMppzkc42O&_nc_zt=23&_nc_ht=scontent.fbhv2-1.fna&_nc_gid=I1z1XOpbrmP8-WPNRRp2_Q&_nc_ss=7b2a8&oh=00_AQOCGXUl2hmF94b_h-fhLnN2_W8nHH7YglRUjdoLp9D8NA&oe=6ACAA89D",
 };
 
 export const BRAND_INFO = {
