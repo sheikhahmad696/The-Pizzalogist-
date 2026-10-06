@@ -49,7 +49,7 @@ export const FullscreenPizzaMoment: React.FC = () => {
         }}
       >
         <img
-          src="/src/assets/images/hero_cinematic_pizza_1791273235156.jpg"
+          src="/images/hero_pizza.jpg"
           alt="Cinematic Artisanal Pizza"
           className="w-full h-full object-cover rounded-full"
           referrerPolicy="no-referrer"

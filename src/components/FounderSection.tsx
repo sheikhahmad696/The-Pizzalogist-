@@ -85,10 +85,7 @@ export const FounderSection: React.FC = () => {
             >
               <div className="aspect-[3/4] w-full overflow-hidden">
                 <img
-                  src={FOUNDER_INFO.imageUploaded}
-                  onError={(e) => {
-                    e.currentTarget.src = FOUNDER_INFO.image;
-                  }}
+                  src="/images/founder.jpg"
                   alt="Ahmad Mustafa - Founder & Owner of The Pizzalogist"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -102,10 +99,7 @@ export const FounderSection: React.FC = () => {
               <div className="absolute top-3 right-3 sm:top-5 sm:right-5 w-12 h-12 sm:w-16 sm:h-16 rounded-2xl p-0.5 bg-gradient-to-tr from-[#e11d48] to-[#f59e0b] shadow-xl shadow-black/80 overflow-hidden">
                 <div className="w-full h-full rounded-[14px] bg-[#0c0c10] overflow-hidden">
                   <img
-                    src="25dd5bc0-6a45-4b7d-a03e-485c8af13b32.png"
-                    onError={(e) => {
-                      e.currentTarget.src = "/src/assets/images/pizzalogist_chef_mascot_logo_1791274455818.jpg";
-                    }}
+                    src="/images/logo.jpg"
                     alt="The Pizzalogist Official Mascot"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"

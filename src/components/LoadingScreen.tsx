@@ -47,10 +47,7 @@ export const LoadingScreen: React.FC<LoadingScreenProps> = ({ onComplete }) => {
           <div className="w-24 h-24 rounded-3xl bg-gradient-to-tr from-[#e11d48] to-[#f59e0b] p-0.5 shadow-2xl shadow-rose-900/60 animate-pulse overflow-hidden">
             <div className="w-full h-full bg-[#0d0d10] rounded-[22px] overflow-hidden flex items-center justify-center">
               <img
-                src="25dd5bc0-6a45-4b7d-a03e-485c8af13b32.png"
-                onError={(e) => {
-                  e.currentTarget.src = "/src/assets/images/pizzalogist_chef_mascot_logo_1791274455818.jpg";
-                }}
+                src="/images/logo.jpg"
                 alt="The Pizzalogist"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

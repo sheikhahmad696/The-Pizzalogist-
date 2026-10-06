@@ -43,10 +43,7 @@ export const SocialSection: React.FC = () => {
             icon={
               <div className="relative w-9 h-9 rounded-full overflow-hidden border border-blue-400">
                 <img
-                  src="048fe40a-f715-4f75-b705-c267de7bdf62.png"
-                  onError={(e) => {
-                    e.currentTarget.src = "/src/assets/images/owner_ahmad_mustafa_suit_1791274471316.jpg";
-                  }}
+                  src="/images/founder.jpg"
                   alt="Ahmad Mustafa Facebook"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

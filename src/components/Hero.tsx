@@ -147,7 +147,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
               {/* Pizza Visual Container with Cut-out/Framing */}
               <div className="relative w-[92%] h-[92%] rounded-3xl overflow-hidden border border-white/10 shadow-2xl shadow-black/90 group bg-[#141418]">
                 <img
-                  src="/src/assets/images/hero_cinematic_pizza_1791273235156.jpg"
+                  src="/images/hero_pizza.jpg"
                   alt="The Pizzalogist Signature Artisanal Pizza"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
@@ -193,10 +193,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
                   {/* Center Emblem in Rotating Badge */}
                   <div className="absolute inset-0 m-auto w-9 h-9 sm:w-12 sm:h-12 rounded-full overflow-hidden border border-rose-500/40 bg-[#0d0d10] flex items-center justify-center shadow-lg shadow-rose-900/60">
                     <img
-                      src="25dd5bc0-6a45-4b7d-a03e-485c8af13b32.png"
-                      onError={(e) => {
-                        e.currentTarget.src = "/src/assets/images/pizzalogist_chef_mascot_logo_1791274455818.jpg";
-                      }}
+                      src="/images/logo.jpg"
                       alt="The Pizzalogist Mascot"
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"

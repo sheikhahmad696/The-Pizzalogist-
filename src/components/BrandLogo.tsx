@@ -12,8 +12,6 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({
   size = "md",
   showTagline = false,
 }) => {
-  const [imgSrc, setImgSrc] = useState(BRAND_ASSETS.logoUploaded);
-
   const iconSizes = {
     sm: "w-7 h-7 sm:w-8 sm:h-8",
     md: "w-9 h-9 sm:w-11 sm:h-11",
@@ -36,12 +34,7 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({
       >
         <div className="w-full h-full bg-[#0d0d10] rounded-[14px] overflow-hidden flex items-center justify-center relative">
           <img
-            src={imgSrc}
-            onError={() => {
-              if (imgSrc !== BRAND_ASSETS.logoLocal) {
-                setImgSrc(BRAND_ASSETS.logoLocal);
-              }
-            }}
+            src="/images/logo.jpg"
             alt="The Pizzalogist Official Chef Mascot Logo"
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
             referrerPolicy="no-referrer"

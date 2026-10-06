@@ -19,16 +19,16 @@ export interface MenuItem {
 
 export const BRAND_ASSETS = {
   // Official Cartoon Chef Logo
-  logoUploaded: "25dd5bc0-6a45-4b7d-a03e-485c8af13b32.png",
-  logoLocal: "/src/assets/images/pizzalogist_chef_mascot_logo_1791274455818.jpg",
+  logoUploaded: "/images/logo.jpg",
+  logoLocal: "/images/logo.jpg",
 
   // Ahmad Mustafa (Founder & Owner in Suit at Podium)
-  founderPodiumUploaded: "048fe40a-f715-4f75-b705-c267de7bdf62.png",
-  founderPodiumLocal: "/src/assets/images/owner_ahmad_mustafa_suit_1791274471316.jpg",
+  founderPodiumUploaded: "/images/founder.jpg",
+  founderPodiumLocal: "/images/founder.jpg",
 
   // Ahmad Mustafa (Casual / Team)
-  founderTeamUploaded: "8ec8fb6b-76bd-4d09-8204-1605ce806cc2.png",
-  founderTeamLocal: "/src/assets/images/owner_ahmad_lifestyle_team_1791274487582.jpg",
+  founderTeamUploaded: "/images/team.jpg",
+  founderTeamLocal: "/images/team.jpg",
 };
 
 export const BRAND_INFO = {
@@ -83,7 +83,7 @@ export const SIGNATURE_ITEMS: MenuItem[] = [
     badge: "House Favourite",
     description:
       "Charcoal-smoked spiced chicken tikka chunks, charred red onions, crisp green bell peppers, and bubbling mozzarella on hand-tossed dough.",
-    image: "/src/assets/images/pizza_extreme_tikka_1791273253043.jpg",
+    image: "/images/pizza_tikka.jpg",
   },
   {
     id: "cheese-obsession",
@@ -92,7 +92,7 @@ export const SIGNATURE_ITEMS: MenuItem[] = [
     badge: "Cheese Pull Champion",
     description:
       "A lavish multi-layer cascade of golden mozzarella, aged provolone blend, roasted garlic herb butter, and blistering sourdough crust.",
-    image: "/src/assets/images/pizza_cheese_obsession_1791273266642.jpg",
+    image: "/images/pizza_cheese.jpg",
   },
   {
     id: "premium-pan-pizza",
@@ -101,7 +101,7 @@ export const SIGNATURE_ITEMS: MenuItem[] = [
     badge: "Chef's Recommendation",
     description:
       "Crisp golden skillet crust, rich slow-simmered spiced marinara sauce, beef pepperoni cuts, and generous double cheese melt.",
-    image: "/src/assets/images/pizza_premium_pan_1791273282313.jpg",
+    image: "/images/pizza_pan.jpg",
   },
   {
     id: "bahawalpuri-fire",
@@ -110,7 +110,7 @@ export const SIGNATURE_ITEMS: MenuItem[] = [
     badge: "Proud Local Special",
     description:
       "Specially crafted for Bahawalpur's heat lovers — fiery chicken chunks, jalapeño rings, chili flakes, and our secret creamy garlic dip.",
-    image: "/src/assets/images/hero_cinematic_pizza_1791273235156.jpg",
+    image: "/images/hero_pizza.jpg",
   },
 ];
 

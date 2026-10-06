@@ -72,10 +72,7 @@ export const BrandStory: React.FC = () => {
               {/* Masked Image Reveal Frame */}
               <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-[#121216] aspect-[4/5] group">
                 <img
-                  src={FOUNDER_INFO.teamImageUploaded}
-                  onError={(e) => {
-                    e.currentTarget.src = FOUNDER_INFO.teamImage;
-                  }}
+                  src="/images/team.jpg"
                   alt="Ahmad Mustafa and The Pizzalogist Team in Bahawalpur"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
