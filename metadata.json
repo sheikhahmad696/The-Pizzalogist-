@@ -1,0 +1,6 @@
+{
+  "name": "The Pizzalogist — The Pizza Specialist",
+  "description": "The Pizzalogist is a proud Bahawalpuri pizza brand with three branches across Bahawalpur. Discover our signature pizzas and order today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
