@@ -85,7 +85,7 @@ export const FounderSection: React.FC = () => {
             >
               <div className="aspect-[3/4] w-full overflow-hidden">
                 <img
-                  src="/images/founder.jpg"
+                  src="/images/Founder"
                   alt="Ahmad Mustafa - Founder & Owner of The Pizzalogist"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
